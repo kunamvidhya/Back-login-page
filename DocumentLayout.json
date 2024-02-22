@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\mphasis\\Feb-22\\Bank login page\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{035057F0-0003-442B-8223-B7CB0D3FA8E3}|Bank login page\\Bank login page.csproj|d:\\mphasis\\feb-22\\bank login page\\bank login page\\views\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{035057F0-0003-442B-8223-B7CB0D3FA8E3}|Bank login page\\Bank login page.csproj|solutionrelative:bank login page\\views\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035057F0-0003-442B-8223-B7CB0D3FA8E3}|Bank login page\\Bank login page.csproj|d:\\mphasis\\feb-22\\bank login page\\bank login page\\views\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{035057F0-0003-442B-8223-B7CB0D3FA8E3}|Bank login page\\Bank login page.csproj|solutionrelative:bank login page\\views\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035057F0-0003-442B-8223-B7CB0D3FA8E3}|Bank login page\\Bank login page.csproj|d:\\mphasis\\feb-22\\bank login page\\bank login page\\models\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035057F0-0003-442B-8223-B7CB0D3FA8E3}|Bank login page\\Bank login page.csproj|solutionrelative:bank login page\\models\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035057F0-0003-442B-8223-B7CB0D3FA8E3}|Bank login page\\Bank login page.csproj|d:\\mphasis\\feb-22\\bank login page\\bank login page\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035057F0-0003-442B-8223-B7CB0D3FA8E3}|Bank login page\\Bank login page.csproj|solutionrelative:bank login page\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035057F0-0003-442B-8223-B7CB0D3FA8E3}|Bank login page\\Bank login page.csproj|d:\\mphasis\\feb-22\\bank login page\\bank login page\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{035057F0-0003-442B-8223-B7CB0D3FA8E3}|Bank login page\\Bank login page.csproj|solutionrelative:bank login page\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035057F0-0003-442B-8223-B7CB0D3FA8E3}|Bank login page\\Bank login page.csproj|d:\\mphasis\\feb-22\\bank login page\\bank login page\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035057F0-0003-442B-8223-B7CB0D3FA8E3}|Bank login page\\Bank login page.csproj|solutionrelative:bank login page\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\mphasis\\Feb-22\\Bank login page\\Bank login page\\Views\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Bank login page\\Views\\Dashboard.cshtml",
+              "ToolTip": "D:\\mphasis\\Feb-22\\Bank login page\\Bank login page\\Views\\Dashboard.cshtml",
+              "RelativeToolTip": "Bank login page\\Views\\Dashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T12:38:33.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\mphasis\\Feb-22\\Bank login page\\Bank login page\\Views\\Login.cshtml",
+              "RelativeDocumentMoniker": "Bank login page\\Views\\Login.cshtml",
+              "ToolTip": "D:\\mphasis\\Feb-22\\Bank login page\\Bank login page\\Views\\Login.cshtml",
+              "RelativeToolTip": "Bank login page\\Views\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T12:38:02.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "D:\\mphasis\\Feb-22\\Bank login page\\Bank login page\\Models\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Bank login page\\Models\\Dashboard.cs",
+              "ToolTip": "D:\\mphasis\\Feb-22\\Bank login page\\Bank login page\\Models\\Dashboard.cs",
+              "RelativeToolTip": "Bank login page\\Models\\Dashboard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T11:45:59.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\mphasis\\Feb-22\\Bank login page\\Bank login page\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "Bank login page\\Models\\Login.cs",
+              "ToolTip": "D:\\mphasis\\Feb-22\\Bank login page\\Bank login page\\Models\\Login.cs",
+              "RelativeToolTip": "Bank login page\\Models\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T11:45:31.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\mphasis\\Feb-22\\Bank login page\\Bank login page\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Bank login page\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\mphasis\\Feb-22\\Bank login page\\Bank login page\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Bank login page\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T11:41:28.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\mphasis\\Feb-22\\Bank login page\\Bank login page\\Program.cs",
+              "RelativeDocumentMoniker": "Bank login page\\Program.cs",
+              "ToolTip": "D:\\mphasis\\Feb-22\\Bank login page\\Bank login page\\Program.cs",
+              "RelativeToolTip": "Bank login page\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T11:40:16.189Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
